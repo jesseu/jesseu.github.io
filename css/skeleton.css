@@ -43,7 +43,7 @@
 
 /* For devices larger than 400px */
 @media (min-width: 400px) {
-  .container {
+  .container .footer-content {
     width: 85%;
     padding: 0; }
 }
@@ -164,6 +164,11 @@ a:hover {
   width: 100%;
   background-color: #333;
   color: white;
+}
+
+.footer-content {
+  width: 80%;
+  margin: 0 auto;
 }
 
 /* Buttons
