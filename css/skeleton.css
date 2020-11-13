@@ -166,9 +166,14 @@ a:hover {
   color: white;
 }
 
-.footer-content a {
+.footer-content {
   padding-top: 2rem;
   padding-bottom: 2rem;
+  color: #FFF;
+  text-decoration: underline;
+}
+
+.footer-content a {
   color: #FFF;
   text-decoration: underline;
 }
