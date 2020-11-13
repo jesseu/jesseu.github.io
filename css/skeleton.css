@@ -153,9 +153,9 @@ p {
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
   color: #1a0dab;
-  text-decoration: none; }
+  text-decoration: underline; }
 a:hover {
-  color: ##1a0dab;
+  color: #00BFFF;
   text-decoration: underline; }
 
 /* Footer
@@ -173,8 +173,13 @@ a:hover {
   text-decoration: underline;
 }
 
-.footer-content a {
+.link-dark-bg {
   color: #FFF;
+  text-decoration: underline;
+}
+
+.link-dark-bg:hover {
+  color: #00BFFF;
   text-decoration: underline;
 }
 
