@@ -28,7 +28,7 @@
 
 /* Grid
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-.container {
+.container .footer-content {
   position: relative;
   width: 100%;
   max-width: 960px;
@@ -50,7 +50,7 @@
 
 /* For devices larger than 550px */
 @media (min-width: 550px) {
-  .container {
+  .container .footer-content {
     width: 80%; }
   .column:first-child,
   .columns:first-child {
