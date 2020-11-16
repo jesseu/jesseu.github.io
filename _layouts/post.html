@@ -4,6 +4,12 @@ layout: default
 
 <a href="javascript: history.go(-1)">Back</a>
 
+<button onclick="goBack()">Go Back</button>
+
+<script>
+    document.write('<a href="' + document.referrer + '">Go Back</a>');
+</script>
+
 <script>
 function goBack() {
   window.history.back();
