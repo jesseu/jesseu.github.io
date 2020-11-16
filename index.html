@@ -53,9 +53,14 @@ title: Jesse Ukkonen
 	<div class="row">
 		<div class="one-half column" style="margin-top: 5%">
         	<h2><a id="writings"></a>Written thoughs</h2>
+			
         		<ul>
+				 {% for post in site.posts %}
+	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	  {% endfor %}
 				<li><a href="http://urn.fi/URN:NBN:fi:amk-2017112418012" target="_blank">Häiriötön teknologia suunnittelutyössä, (eng. distraction-free technology in design work), thesis</a></li>
 				<li><a href="https://qvik.com/news/technology-distraction-calm-design/" target="_blank">Technology is wasting our time. Who is responsible for calm design?, blog post</a></li>
+				
 			</ul>
 		</div>
 	</div>
