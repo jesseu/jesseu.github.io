@@ -1,2 +1,3 @@
 name: Jesse Ukkonen
 markdown: kramdown
+permalink: /:title
