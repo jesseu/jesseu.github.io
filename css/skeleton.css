@@ -153,10 +153,13 @@ p {
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
   color: #1a0dab;
-  text-decoration: underline; }
+  text-decoration: none;
+  border-bottom: 1px solid #1a0dab;}
+
 a:hover {
-  color: #00BFFF;
-  text-decoration: underline; }
+  text-decoration: none;
+  color: #fff;
+  background-color: #1a0dab;}
 
 /* Images
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
@@ -191,12 +194,17 @@ figcaption {
 
 .link-dark-bg {
   color: #FFF;
-  text-decoration: underline;
+  text-decoration: none;
+  border-bottom: 1px solid #FFF;
 }
 
 .link-dark-bg:hover {
   color: #00BFFF;
   text-decoration: underline;
+
+  text-decoration: none;
+  background-color: #FFF;
+  color: #000;
 }
 
 /* Buttons
