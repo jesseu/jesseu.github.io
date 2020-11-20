@@ -158,6 +158,12 @@ a:hover {
   color: #00BFFF;
   text-decoration: underline; }
 
+/* Images
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+img {
+  border-radius: 50%;
+}
+
 /* Footer
 –––––––––––––––––––––––––––––––––––––––––––––––––– */  
 .footer {
