@@ -207,7 +207,7 @@ figcaption {
   margin-bottom: 2rem;
 }
 
-img[src~="thumbnail"] {
+img[src~="post-header"] {
    max-width: 100%
 }
 
