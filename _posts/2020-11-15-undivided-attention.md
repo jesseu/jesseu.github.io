@@ -3,7 +3,7 @@ layout: post
 title: "Can I have your undivided attention?"
 date: 2020-11-22
 ---
-![A header image saying "Look here followed by an eyes emoji. The visual style is mimicking Facebook and is designed to grab your attention."](images/header-grab-attention.png# ten columns)
+![A header image saying "Look here followed by an eyes emoji. The visual style is mimicking Facebook and is designed to grab your attention."](images/header-grab-attention.png# post-header)
 
 Here comes some random thoughts and a recommendation for a new podcast series, [Your Undivided Attention](https://www.humanetech.com/podcast). It explores for example “what it means to become sophisticated about human nature, by interviewing hypnotists, magicians, experts on the dynamics of cults and election hacking and the powers of persuasion.“ Cool, right?
 
