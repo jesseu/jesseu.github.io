@@ -203,8 +203,12 @@ figcaption {
   margin-bottom: 2rem;
 }
 
-.post-header {
+.post-heading {
   margin-bottom: 2rem;
+}
+
+img[src~="thumbnail"] {
+   max-width: 100%
 }
 
 /* Buttons
