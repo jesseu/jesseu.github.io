@@ -1,7 +1,7 @@
 name: Jesse Ukkonen
 markdown: kramdown
 permalink: /:title
-url: "https://jesseukkonen.fi"
+url: https://jesseukkonen.fi
 canonical_url: 'jesseukkonen.fi'
 type: Person
 
