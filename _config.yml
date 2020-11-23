@@ -1,3 +1,6 @@
 name: Jesse Ukkonen
 markdown: kramdown
 permalink: /:title
+
+plugins:
+  - jekyll-seo-tag
