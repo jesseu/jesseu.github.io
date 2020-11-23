@@ -5,6 +5,6 @@ permalink: /:title
 plugins:
   - jekyll-seo-tag
   
-url: "https://jesseukkonen.fi"
+url: "https://jesseukkonen.fi/"
   plugins:
     - jekyll-sitemap
