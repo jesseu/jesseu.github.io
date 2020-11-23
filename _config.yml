@@ -4,3 +4,7 @@ permalink: /:title
 
 plugins:
   - jekyll-seo-tag
+  
+url: "https:/jesseukkonen.com"
+  plugins:
+    - jekyll-sitemap
