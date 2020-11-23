@@ -1,7 +1,9 @@
 name: Jesse Ukkonen
 markdown: kramdown
 permalink: /:title
-url: https://jesseukkonen.fi
+url: "https://jesseukkonen.fi"
+canonical_url: 'jesseukkonen.fi'
+type: Person
 
 plugins:
   - jekyll-seo-tag
@@ -9,7 +11,10 @@ plugins:
 
 title: Jesse Ukkonen
 tagline: A Designer With an Inclusive Mindset
-description: I'm Jesse, a product designer with an emphasis in accessibility and calm design. My mission is to align the right design with the right kind of technology.
+description: I'm Jesse, a product designer with an emphasis in accessibility and calm design. This is my website, come check it out.
+
+image:
+  path: /images/jesse_qvik_cv_square.jpg
 
 social:
   links:
