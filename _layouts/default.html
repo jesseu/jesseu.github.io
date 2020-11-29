@@ -14,11 +14,13 @@
       gtag('config', 'UA-85431951-1');
     </script>
 
-
+<!-- General meta information
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
     <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
     <meta name="author" content="Jesse Ukkonen">
+    <meta property="og:image" content="{{ site.url }}/images/{{ page.image }}">
 
     <!-- Mobile Specific Metas
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
