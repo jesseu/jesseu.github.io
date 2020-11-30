@@ -15,6 +15,8 @@ description: I'm Jesse, a product designer with an emphasis in accessibility and
 
 image:
   path: /images/jesse_ukkonen_og-image.jpg
+  height: 630
+  width: 1200
 
 social:
   links:
