@@ -18,6 +18,13 @@ image:
   height: 630
   width: 1200
 
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /images/jesse_ukkonen_og-image.jpg
+
+
 social:
   links:
     - https://www.linkedin.com/in/jesseukkonen
