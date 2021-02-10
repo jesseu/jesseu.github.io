@@ -211,14 +211,27 @@ img[src~="post-header"] {
    max-width: 100%
 }
 
-.button {
+.button,
+button,
+input[type="submit"],
+input[type="reset"],
+input[type="button"] {
   margin-top: 2rem;
   margin-bottom: 2rem;
   background: #FFFFFF;
   border: 2px solid #1a0dab;
 }
 
-.button:hover {
+.button:hover,
+button:hover,
+input[type="submit"]:hover,
+input[type="reset"]:hover,
+input[type="button"]:hover,
+.button:focus,
+button:focus,
+input[type="submit"]:focus,
+input[type="reset"]:focus,
+input[type="button"]:focus {
   color: #FFFFFF;
   background: #1a0dab;
   border: 2px solid #FFFFFF;
