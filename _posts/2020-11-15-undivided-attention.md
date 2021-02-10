@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Can I have your undivided attention?"
+description: Here I write about a podcast called Your Undivided Attention and reflect upon the tech commumity's ethical responsibility.
 date: 2020-11-22
 ---
 ![A header image saying "Look here followed by an eyes emoji. The visual style is mimicking Facebook and is designed to grab your attention."](images/header-grab-attention.png# post-header)
 
-Here comes some random thoughts and a recommendation for a new podcast series, [Your Undivided Attention](https://www.humanetech.com/podcast){:target="_blank"}. It explores for example “what it means to become sophisticated about human nature, by interviewing hypnotists, magicians, experts on the dynamics of cults and election hacking and the powers of persuasion.“ Cool, right?
+Here comes some random thoughts and a recommendation for a podcast series, [Your Undivided Attention](https://www.humanetech.com/podcast){:target="_blank"}. It explores for example “what it means to become sophisticated about human nature, by interviewing hypnotists, magicians, experts on the dynamics of cults and election hacking and the powers of persuasion.“ Cool, right?
 
 So, [the inventor of the infinite scroll](https://en.wikipedia.org/wiki/Aza_Raskin){:target="_blank"} said (after the invention) that making an interface easier to use is not necessarily a good thing for the humanity. If a UI is designed not to help you but to hold you, our brains cannot usually catch up with our impulses. Classic examples can be found in social media platforms and among games.
 
