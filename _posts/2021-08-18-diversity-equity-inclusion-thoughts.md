@@ -73,7 +73,7 @@ Achieving belonging through diversity, equity and inclusion requires everyone's 
 * [Five Fundamentals of Equitable Employee Resource Groups](https://www.feminuity.org/blog-posts/five-fundamentals-of-equitable-ergs-employee-resource-groups/){:target="_blank"}
 
 
-## Something to listen to 👂🏼
+## Recommended content to listen to 👂🏼
 * [The Inclusive AF Podcast](https://www.inclusiveafpodcast.com/){:target="_blank"}
 * [The Argument – Are Workplace Diversity Programs Doing More Harm Than Good?](https://open.spotify.com/episode/2ilWXRIVKWYzEZbfLqwXQS?si=91739d09b4de4ac9/){:target="_blank"}
 * [Design Better Podcast – Google’s Annie Jean Baptiste: Building better products for everyone](https://open.spotify.com/episode/4cMoOIqt7bQ67ZDgZPAbEi?si=ZeG4puy7RtGo793AcUNHkw&dl_branch=1/){:target="_blank"}
