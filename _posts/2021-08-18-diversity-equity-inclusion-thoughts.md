@@ -2,7 +2,7 @@
 layout: post
 title: "How do you belong? Diving deeper into diversity, equity and inclusion"
 description: Thoughts and observations on DEI, belonging and how to take action on a personal an organisational level.
-date: 2021-08-17
+date: 2021-08-18
 ---
 
 DEI, DIE, EDI, D&I and so forth. There’s a plethora of abbreviations and definitions regarding Diversity, Equity and Inclusion when discussing organisational culture and deep rooted reasons why workplaces, well, suck.
@@ -24,7 +24,7 @@ A diverse workplace means that differences exist, that’s cool but not enough! 
 
 ## Where do we aim then?
 
-One might notice the fact that diversity, equity or inclusion alone won’t save the day. An overemphasis on just one or two can even make things worse [as elaborated in this writing](https://medium.com/@krysburnette/its-2019-and-we-are-still-talking-about-equity-diversity-and-inclusion-dd00c9a66113/){:target="_blank"}. The diagram recreated by Krys illustrates the intersections and differences of inclusion, diversity, equity and belonging quite well.
+One might notice the fact that diversity, equity or inclusion alone won’t save the day. An overemphasis on just one or two can even make things worse [as elaborated in this writing](https://medium.com/@krysburnette/its-2019-and-we-are-still-talking-about-equity-diversity-and-inclusion-dd00c9a66113/){:target="_blank"}. The diagram below recreated by Krys illustrates the intersections and differences of inclusion, diversity, equity and belonging quite well.
 
 <img src="/images/DEI-diagram-krys.png" alt="A venn diagram recreated illustrating the intersections and differences of inclusion, diversity, equity and belonging." width="100%"/>
 
