@@ -207,6 +207,11 @@ img[src~="post-header"] {
    max-width: 100%
 }
 
+blockquote {
+    font-size: 2rem;
+    line-height: initial;
+}  
+
 
 /* Buttons
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
