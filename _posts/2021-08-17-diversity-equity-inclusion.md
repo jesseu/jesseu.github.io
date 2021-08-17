@@ -4,7 +4,6 @@ title: "How do you belong? Diving deeper into diversity, equity and inclusion"
 description: Thoughts and observations on DEI, belonging and how to take action on a personal an organisational level.
 date: 2021-08-17
 ---
-![A header image saying "Look here followed by an eyes emoji. The visual style is mimicking Facebook and is designed to grab your attention."](images/header-grab-attention.png# post-header)
 
 DEI, DIE, EDI, D&I and so forth. There’s a plethora of abbreviations and definitions regarding Diversity, Equity and Inclusion when discussing organisational culture and deep rooted reasons why workplaces, well, suck.
 
