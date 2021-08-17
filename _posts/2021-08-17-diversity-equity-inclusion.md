@@ -26,7 +26,7 @@ A diverse workplace means that differences exist, that’s cool but not enough! 
 
 One might notice the fact that diversity, equity or inclusion alone won’t save the day. An overemphasis on just one or two can even make things worse [as elaborated in this writing](https://medium.com/@krysburnette/its-2019-and-we-are-still-talking-about-equity-diversity-and-inclusion-dd00c9a66113/){:target="_blank"}. The diagram recreated by Krys illustrates the intersections and differences of inclusion, diversity, equity and belonging quite well.
 
-![A venn diagram recreated illustrating the intersections and differences of inclusion, diversity, equity and belonging.](/images/DEI-diagram-krys.png)
+<img src="/images/DEI-diagram-krys.png" alt="A venn diagram recreated illustrating the intersections and differences of inclusion, diversity, equity and belonging." width="100%"/>
 
 In the intersection of DE & I we have **belonging**. It’s a sense of everyone feeling empowered to speak up, make a change, and develop the culture. Those who hold the leadership and who represent the dominant social culture are responsible for creating the conditions for belonging – it’s a top-down process. However, everyone is accountable for maintaining a safe space where people can grow.
 
@@ -57,37 +57,23 @@ Achieving belonging through diversity, equity and inclusion requires everyone's 
 
 - - -
 
-## Related readings & sources 📜
-* [Accessibility, Usability, and Inclusion | Web Accessibility Initiative (WAI) | W3C](https://www.w3.org/WAI/fundamentals/accessibility-usability-inclusion/){:target="_blank"}
-
+## Related readings & sources 📚
+* [Accessibility, Usability, and Inclusion, W3C](https://www.w3.org/WAI/fundamentals/accessibility-usability-inclusion/){:target="_blank"}
 * [Diversity, Inclusion & Equity in Tech: Understand the Difference](https://generalassemb.ly/blog/diversity-inclusion-equity-differences-in-meaning/){:target="_blank"}
-
-* [Belonging: A Conversation about Equity, Diversity, and Inclusion | by Krys](https://medium.com/@krysburnette/its-2019-and-we-are-still-talking-about-equity-diversity-and-inclusion-dd00c9a66113/){:target="_blank"}
-
+* [Belonging: A Conversation about Equity, Diversity, and Inclusion by Krys](https://medium.com/@krysburnette/its-2019-and-we-are-still-talking-about-equity-diversity-and-inclusion-dd00c9a66113/){:target="_blank"}
 * [Getting Serious About Diversity: Enough Already with the Business Case](https://hbr.org/2020/11/getting-serious-about-diversity-enough-already-with-the-business-case/){:target="_blank"}
-
 * [Eight Ways to Make Your D&I Efforts Less Talk and More Walk](https://review.firstround.com/eight-ways-to-make-your-dandi-efforts-less-talk-and-more-walk/){:target="_blank"}
-
 * [The problem with that equity vs. equality graphic you’re using](https://culturalorganizing.org/the-problem-with-that-equity-vs-equality-graphic/){:target="_blank"}
-
 * [How to define diversity, equity, and inclusion at work](https://www.cultureamp.com/blog/how-to-define-diversity-equity-and-inclusion-at-work/){:target="_blank"}
-
 * [Design The digital rights of LGBTQ+ communities: Five steps towards an inclusive design process](https://www.reaktor.com/blog/the-digital-rights-of-lgbtq-communities-five-steps-towards-an-inclusive-design-process/){:target="_blank"}
-
 * [How tech companies can turn 'commitments' to diversity into action](https://mashable.com/article/how-companies-can-become-more-diverse/){:target="_blank"}
-
 * [Inclusion and Diversity in the Workplace](https://www.cipd.co.uk/knowledge/fundamentals/relations/diversity/factsheet#6424/){:target="_blank"}
-
 * [What exactly is a microaggression?](https://www.vox.com/2015/2/16/8031073/what-are-microaggressions/){:target="_blank"}
-
 * [Employee lifecycle](https://projectinclude.org/employee_lifecycle/){:target="_blank"}
-
 * [Five Fundamentals of Equitable Employee Resource Groups](https://www.feminuity.org/blog-posts/five-fundamentals-of-equitable-ergs-employee-resource-groups/){:target="_blank"}
 
 
 ## Something to listen to 👂🏼
 * [The Inclusive AF Podcast](https://www.inclusiveafpodcast.com/){:target="_blank"}
-
 * [The Argument – Are Workplace Diversity Programs Doing More Harm Than Good?](https://open.spotify.com/episode/2ilWXRIVKWYzEZbfLqwXQS?si=91739d09b4de4ac9/){:target="_blank"}
-
 * [Design Better Podcast – Google’s Annie Jean Baptiste: Building better products for everyone](https://open.spotify.com/episode/4cMoOIqt7bQ67ZDgZPAbEi?si=ZeG4puy7RtGo793AcUNHkw&dl_branch=1/){:target="_blank"}
