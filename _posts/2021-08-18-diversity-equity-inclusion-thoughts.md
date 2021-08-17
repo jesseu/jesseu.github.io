@@ -18,7 +18,7 @@ So **diversity** basically just describes a group of people that are different f
 
 A diverse workplace means that differences exist, that’s cool but not enough! Inclusion takes it forward by asking how everyone can feel valued with or without their differences. It’s a process that evolves. This applies also to understanding the value of a diverse product team and the resulting inclusive design taking a broader set of end-users and their features into account. Are you thinking about accessibility? Good, because accessibility, usability, and inclusion are all needed in creating an environment that works for everyone. Similarly, we also want to create spaces with an equal playing field and fair rules.
 
->The issue is that not everyone has access to the same opportunities, nor do all start from the same place in this society.
+>"The issue is that not everyone has access to the same opportunities, nor do all start from the same place in this society."
 
 **Equity** should not be confused with equality, [take this article to illustrate that](https://culturalorganizing.org/the-problem-with-that-equity-vs-equality-graphic/){:target="_blank"}. It is *equal* to give everyone the same treatment and opportunities. The issue is that not everyone has access to the same opportunities, nor do all start from the same place in this society. It is equitable to acknowledge that we all have different needs, experiences, and opportunities and we should be committed to address and correct this imbalance. Like inclusion, equity is a process.
 
@@ -39,7 +39,7 @@ All this is indeed a lot to take in, at least in the beginning. But isn’t it t
 
 There is plenty of information available for self-education, so refrain from reaching out directly to people you know are eg. members of a minority group or in a non-dominant position. **It’s your job to educate yourself first**.
 
->Invest the efforts to elevate the people who are disadvantaged, not to fight the ones who already are in power.
+>"Invest the efforts to elevate the people who are disadvantaged, not to fight the ones who already are in power."
 
 At work we should try to design organisations equitable and inclusive enough that they can neutralize the effects of discrimination. Not everyone can or should be “perfect” people. Success should not depend on everyone inside it being 110 % equitable and inclusive. In other words, it can be more productive to focus on the structures, ways of working and other organisational items that support a healthy culture instead of trying to convert the individuals choosing a defensive stance (and often enjoy a dominant position). Consider investing in the efforts to elevate the people who are disadvantaged, not in fighting the ones who already are in power.
 
