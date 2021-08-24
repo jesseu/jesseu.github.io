@@ -204,7 +204,8 @@ figcaption {
 }
 
 img[src~="post-header"] {
-   max-width: 100%
+   max-width: 100%;
+   display: block;
 }
 
 blockquote {
