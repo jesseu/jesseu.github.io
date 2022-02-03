@@ -24,7 +24,7 @@ A diverse workplace means that differences exist, that’s cool but not enough! 
 
 ## Where do we aim then?
 
-One might notice the fact that diversity, equity or inclusion alone won’t save the day. An overemphasis on just one or two can even make things worse [as elaborated in this writing](https://medium.com/@krysburnette/its-2019-and-we-are-still-talking-about-equity-diversity-and-inclusion-dd00c9a66113/){:target="_blank"}. The diagram below recreated by Krys illustrates the intersections and differences between inclusion, diversity, equity and belonging quite well.
+One might notice the fact that diversity, equity or inclusion alone won’t save the day. An overemphasis on just one or two can even make things worse [as elaborated in this writing by Krys](https://medium.com/@krysburnette/its-2019-and-we-are-still-talking-about-equity-diversity-and-inclusion-dd00c9a66113/){:target="_blank"}. The diagram below recreated by them illustrates the intersections and differences between inclusion, diversity, equity and belonging quite well.
 
 <img src="/images/DEI-diagram-krys.png" alt="A venn diagram recreated illustrating the intersections and differences of inclusion, diversity, equity and belonging." width="100%"/>
 
@@ -41,9 +41,9 @@ There is plenty of information available for self-education, so refrain from rea
 
 >"Invest the efforts to elevate the people who are disadvantaged, not to fight the ones who already are in power."
 
-At work we should try to design organisations equitable and inclusive enough that they can neutralize the effects of discrimination. Not everyone can or should be “perfect” people. Success should not depend on everyone inside the organisation being 110 % equitable and inclusive. In other words, it can be more productive to focus on the structures, ways of working and other organisational items that support a healthy culture instead of trying to convert the individuals taking a defensive stance (and who often enjoy a dominant position). Consider investing in the efforts to elevate the people who are disadvantaged, not in fighting the ones who already are in power.
+At work we should try to design organisations equitable and inclusive enough that they can neutralize the effects of discrimination. Not everyone can or should be “perfect” individuals. Success should not depend on everyone inside the organisation being 110 % equitable and inclusive. In other words, it can be more productive to focus on the structures, ways of working and other organisational items that support a healthy culture instead of trying to convert the individuals taking a defensive stance (and who often enjoy a dominant position). Consider investing in the efforts to elevate the people who are disadvantaged, not in fighting the ones who already are in power.
 
-As a person of color I can identify many situations where the lack of DEI & belonging has been apparent, situations where I have felt excluded. Then again, what would the experiences of a gender nonconforming, black and queer person be? Or a disabled woman with children? People have more than one identity. This is why we need [intersectionality](https://www.cultureamp.com/blog/intersectionality-at-work/){:target="_blank"} to gain a deeper understanding of our fellow human beings and the structures around them.
+I identify myself as a person of color I could point out many situations where the lack of DEI & belonging has been apparent, situations where I have felt excluded. Then again, what would the experiences of a gender nonconforming, black and queer person be? Or a disabled woman with children? People have more than one identity. This is why we need [intersectionality](https://www.cultureamp.com/blog/intersectionality-at-work/){:target="_blank"} to gain a deeper understanding of our fellow human beings and the structures around them.
 
 ## No talk without the walk
 
