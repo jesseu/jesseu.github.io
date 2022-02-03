@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How do you belong? Diving deeper into diversity, equity and inclusion"
-description: Thoughts and observations on DEI, belonging and how to take action on a personal an organisational level.
+description: Thoughts and observations on DEI, belonging and how to take action on a personal and organisational level.
 date: 2021-08-18
 ---
 
@@ -55,6 +55,9 @@ Achieving belonging through diversity, equity and inclusion requires everyone's 
 
 *N.B. I am not a professional in the field of DEI. My intent is to share my learnings, observations and thoughts accumulated during my journey and to hopefully support yours.*
 
+- - -
+### Coming up: Inclusive by Design event
+Join us for keynotes from professionals representing the intersecting fields of design, anthropology, children’s rights and DEI consultation. The event will be held online on Thursday 10.2.2022 at 17:00–18:30! [Sign up & read more](https://qvik.com/events/inclusive-by-design/){:target="_blank"}
 - - -
 
 ## Related readings & sources 📚
