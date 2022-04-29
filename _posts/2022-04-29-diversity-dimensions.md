@@ -17,6 +17,7 @@ From time to time, I like to remind myself about diversity. It’s a diverse top
 <img src="/images/list-dimensions-of-diversity.png" alt="An image listing several dimensions of diversity, such as gender identity, learning styles, ethnicity and life experiences" width="100%"/>
 
 <figcaption>Image description: A text-based image listing several dimensions of diversity, such as gender identity, learning styles, ethnicity and life experiences</figcaption>
+<br>
 
 Sometimes it can feel like too much to take in but eventually it’s more about becoming aware of existing things and structures in our every day life – including your family, friends, colleagues and end-users.
 
