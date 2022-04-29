@@ -9,14 +9,15 @@ date: 2022-04-29
 
 From time to time, I like to remind myself about diversity. It’s a diverse topic for sure but every now and then it tends to be reduced to features such as gender, skin color or physical ability. And sometimes these features are inspected in isolation from each other.
 
-## The different dimensions of diversity drill into themes such as
-
-In a nutshell:
+**The different dimensions of diversity drill into themes such as:
 * what we believe & how we think
 * how we learn and participate
 * socio-economic background
 * physical characteristics
 * lived experience
+
+<img src="/images/list-dimensions-of-diversity.png" alt="An image listing several dimensions of diversity, such as gender identity, learning styles, ethnicity and life experiences" width="100%"/>
+<figcaption class="one-third column">Image description: A text-based image listing several dimensions of diversity, such as gender identity, learning styles, ethnicity and life experiences</figcaption>
 
 Sometimes it can feel like too much to take in but eventually it’s more about becoming aware of existing things and structures in our every day life – including your family, friends, colleagues and end-users.
 
