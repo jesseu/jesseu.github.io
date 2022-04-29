@@ -23,11 +23,11 @@ Sometimes it can feel like too much to take in but eventually it’s more about 
 
 ## Diversity alone is breaking my heart in two
 
-Diversity is about the differences and features that people have. Everyone has their own set and it affects individuals in different ways. And an organisation that’s diverse has not really achieved that much without taking things like inclusion and equity into account. A highly diverse team can also be highly dysfunctional and have a toxic culture.
+Diversity is about the differences and features that people have. Everyone has their own set and it affects individuals in different ways. This is why an organisation that’s diverse has not really achieved that much without taking things like inclusion and equity into account. A highly diverse team can also be highly dysfunctional and have a toxic culture.
 
 ## It's hard to get by just upon a smile
 
-Moreover, a well functioning team that’s diverse can identify a broader set of potential customer and take their intersecting features into account. Needless to say, accessibility, usability, and inclusion are all key ingredients in creating an environment that matches with the people living in it. Furthermore, we want to create spaces with equal playing fields and fair rules. Whether they be digital or physical.
+Moreover, a well functioning team that’s diverse can identify a broader set of potential customer and take their intersecting features into account. Needless to say, accessibility, usability, and inclusion are all key ingredients in creating an environment that matches with the people living in it. Furthermore, we want to create spaces with equal playing fields and fair rules. Whether they be digital, physical or cultural.
 
 This is where we need a variety of people that are both welcomed to step in and also have courage to speak up. Achieving that is no small feat but it’s a process that is crucial for safety and success.
 
