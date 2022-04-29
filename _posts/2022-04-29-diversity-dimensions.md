@@ -31,4 +31,4 @@ Moreover, a well functioning team that’s diverse can identify a broader set of
 
 This is where we need a variety of people that are both welcomed to step in and also have courage to speak up. Achieving that is no small feat but it’s a process that is crucial for safety and success.
 
-*P.S. If you'd like to drill in a bit deeper to these topics, check out  [Inklusiiv's resource bank](https://inklusiiv.com/dei-resource-bank/){:target="_blank"}*
+*P.S. If you'd like to drill in a bit deeper to these topics, check out eg. [Inklusiiv's resource bank](https://inklusiiv.com/dei-resource-bank/){:target="_blank"}*
