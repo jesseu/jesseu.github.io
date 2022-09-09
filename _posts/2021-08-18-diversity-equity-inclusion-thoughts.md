@@ -57,7 +57,7 @@ Achieving belonging through diversity, equity and inclusion requires everyone's 
 
 - - -
 ### Listen more: Inclusive by Design event
-I organized [a virtual event at Qvik](https://qvik.com/events/inclusive-by-design/){:target="_blank"} where I was joined by professionals representing the intersecting fields of design, anthropology, children’s rights and DEI consultation. [Check the recording from YouTube](https://youtu.be/qyd-ZrKf650){:target="_blank"}
+I organized [a virtual event at Qvik](https://www.meetup.com/qvik-events/events/283524080/){:target="_blank"} where I was joined by professionals representing the intersecting fields of design, anthropology, children’s rights and DEI consultation. [Check the recording from YouTube](https://youtu.be/qyd-ZrKf650){:target="_blank"}
 - - -
 
 ## Related readings & sources 📚
@@ -72,6 +72,7 @@ I organized [a virtual event at Qvik](https://qvik.com/events/inclusive-by-desig
 * [How tech companies can turn 'commitments' to diversity into action](https://mashable.com/article/how-companies-can-become-more-diverse/){:target="_blank"}
 * [Inclusion and Diversity in the Workplace](https://www.cipd.co.uk/knowledge/fundamentals/relations/diversity/factsheet#6424/){:target="_blank"}
 * [What exactly is a microaggression?](https://www.vox.com/2015/2/16/8031073/what-are-microaggressions/){:target="_blank"}
+* [Avoiding Microaggressions in Classrooms and Online](https://collegeeducated.com/resources/avoiding-microaggressions-in-classrooms-and-online/){:target="_blank"}
 * [Employee lifecycle](https://projectinclude.org/employee_lifecycle){:target="_blank"}
 * [Five Fundamentals of Equitable Employee Resource Groups](https://www.feminuity.org/blog-posts/five-fundamentals-of-equitable-ergs-employee-resource-groups/){:target="_blank"}
 
