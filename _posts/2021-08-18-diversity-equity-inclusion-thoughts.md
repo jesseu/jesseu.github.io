@@ -76,7 +76,8 @@ I organized [a virtual event at Qvik](https://www.meetup.com/qvik-events/events/
 * [Employee lifecycle](https://projectinclude.org/employee_lifecycle){:target="_blank"}
 * [Five Fundamentals of Equitable Employee Resource Groups](https://www.feminuity.org/blog-posts/five-fundamentals-of-equitable-ergs-employee-resource-groups/){:target="_blank"}
 * [Intro to Critical Race Theory](https://www.perlego.com/knowledge/study-guides/what-is-critical-race-theory/){:target="_blank"}
-
+* [Unmasking Microaggressions
+Educational Guide to Promoting Inclusive Conversations (DEI)](https://wordfinderx.com/blog/microaggressions-educational-guide/){:target="_blank"}
 
 ## Recommended content to listen to 👂🏼
 * [The Inclusive AF Podcast](https://www.inclusiveafpodcast.com/){:target="_blank"}
