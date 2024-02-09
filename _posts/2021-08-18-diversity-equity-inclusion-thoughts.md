@@ -73,8 +73,7 @@ I organized [a virtual event at Qvik](https://www.meetup.com/qvik-events/events/
 * [Inclusion and Diversity in the Workplace](https://www.cipd.co.uk/knowledge/fundamentals/relations/diversity/factsheet#6424/){:target="_blank"}
 * [What exactly is a microaggression?](https://www.vox.com/2015/2/16/8031073/what-are-microaggressions/){:target="_blank"}
 * [Avoiding Microaggressions in Classrooms and Online](https://collegeeducated.com/resources/avoiding-microaggressions-in-classrooms-and-online/){:target="_blank"}
-* * [Unmasking Microaggressions
-Educational Guide to Promoting Inclusive Conversations (DEI)](https://wordfinderx.com/blog/microaggressions-educational-guide/){:target="_blank"}
+* [Unmasking Microaggressions, Educational Guide to Promoting Inclusive Conversations (DEI)](https://wordfinderx.com/blog/microaggressions-educational-guide/){:target="_blank"}
 * [Employee lifecycle](https://projectinclude.org/employee_lifecycle){:target="_blank"}
 * [Five Fundamentals of Equitable Employee Resource Groups](https://www.feminuity.org/blog-posts/five-fundamentals-of-equitable-ergs-employee-resource-groups/){:target="_blank"}
 * [Intro to Critical Race Theory](https://www.perlego.com/knowledge/study-guides/what-is-critical-race-theory/){:target="_blank"}
